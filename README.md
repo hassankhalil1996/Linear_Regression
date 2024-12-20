@@ -1,4 +1,5 @@
 # Film Revenue Prediction using Linear Regression
+![image alt](https://github.com/hassankhalil1996/Linear_Regression/blob/main/Capture.PNG?raw=true)
 
 This project predicts the worldwide gross revenue of a film based on its production budget using **linear regression**.
 
